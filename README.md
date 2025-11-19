@@ -110,14 +110,21 @@ daily
 The system will bypass routing and directly use that expert.
 
 📊 Performance Summary
+
 🧭 Router
+
 ~62.7% accuracy
+
 ~0.75 macro F1 (metadata-augmented)
+
 Particularly strong improvements for District and Daily Orders
 
 👩‍⚖️ Experts
+
 Supreme, High, Tribunal → consistently strong
+
 District & Daily Orders → highest gains after metadata augmentation
+
 Each expert comes with detailed confusion matrices + summary reports
 
 🎯 Vision & Roadmap
@@ -133,5 +140,3 @@ Upcoming modules:
 🤝 Ensemble inference across K-Fold splits
 📡 REST API for integration into legal-tech platforms
 
-```bash
-python prediction.py
