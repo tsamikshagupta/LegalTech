@@ -113,19 +113,19 @@ The system will bypass routing and directly use that expert.
 
 🧭 Router
 
-~62.7% accuracy
+  ~62.7% accuracy
 
-~0.75 macro F1 (metadata-augmented)
+  ~0.75 macro F1 (metadata-augmented)
 
-Particularly strong improvements for District and Daily Orders
+  Particularly strong improvements for District and Daily Orders
 
 👩‍⚖️ Experts
 
-Supreme, High, Tribunal → consistently strong
+  Supreme, High, Tribunal → consistently strong
 
-District & Daily Orders → highest gains after metadata augmentation
+  District & Daily Orders → highest gains after metadata augmentation
 
-Each expert comes with detailed confusion matrices + summary reports
+  Each expert comes with detailed confusion matrices + summary reports
 
 🎯 Vision & Roadmap
 
@@ -134,9 +134,15 @@ Court-MOE is built around one principle:
 Legal AI should respect the structural diversity of courts.
 
 Upcoming modules:
-🌐 MERN-based public demo
-🐳 Docker support for easier deployments
-🔍 Explainability layer (token-level and section-level insights)
-🤝 Ensemble inference across K-Fold splits
-📡 REST API for integration into legal-tech platforms
+
+  🌐 MERN-based public demo
+  
+  🐳 Docker support for easier deployments
+  
+  🔍 Explainability layer (token-level and section-level insights)
+  
+  🤝 Ensemble inference across K-Fold splits
+  
+  📡 REST API for integration into legal-tech platforms
+  
 
