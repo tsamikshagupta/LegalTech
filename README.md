@@ -51,6 +51,9 @@ Hard routing. No blending. No ambiguity.
 
 ## 🧬 Core Components
 
+<img width="1777" height="744" alt="image" src="https://github.com/user-attachments/assets/c7b3264f-e0b4-4802-b013-0661996bc181" />
+
+
 ### 🔡 Custom Tokenizer  
 A domain-trained BPE tokenizer that handles the unique vocabulary of Indian judgments — citations, act names, Latin terms, multilingual noise, procedural markers, etc.
 
