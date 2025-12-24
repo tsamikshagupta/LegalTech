@@ -1,4 +1,4 @@
-# ⚖️ Court-MOE  
+# ⚖️ Court-MOE  - Version 1.0
 ### *Mixture of Experts for Indian Legal Intelligence*
 
 Court-MOE is a research-driven attempt to bring **clarity, structure, and specialization** into the processing of Indian legal documents.  
@@ -137,14 +137,10 @@ Court-MOE is built around one principle:
 Legal AI should respect the structural diversity of courts.
 
 Upcoming modules:
-
-  🌐 MERN-based public demo
   
   🐳 Docker support for easier deployments
   
   🔍 Explainability layer (token-level and section-level insights)
-  
-  🤝 Ensemble inference across K-Fold splits
   
   📡 REST API for integration into legal-tech platforms
   
